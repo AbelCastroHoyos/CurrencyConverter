@@ -1,0 +1,22 @@
+{
+  "auditDataList": [
+    {
+      "result": "success",
+      "base_code": "USD",
+      "target_code": "COP",
+      "conversion_rate": 3888.2554,
+      "value_to_convert": 100.0,
+      "conversion_result": 388825.54,
+      "time_conversion": "2024-05-05T16:50:22.834354500"
+    },
+    {
+      "result": "success",
+      "base_code": "COP",
+      "target_code": "USD",
+      "conversion_rate": 2.5719E-4,
+      "value_to_convert": 500000.0,
+      "conversion_result": 128.595,
+      "time_conversion": "2024-05-05T16:52:36.335248700"
+    }
+  ]
+}
