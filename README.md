@@ -1,9 +1,9 @@
 # Currency Converter
 Currency Converter Service
 
-!Currency_Converter.png
+![currency converter](Currency_Converter.png)
 
-##Índice
+# Índice
 
 *[Descripción del proyecto](#descripción-del-proyecto)
 
